@@ -1,4 +1,4 @@
-package com.anupam;
+package fr.imiddleware.projets;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
