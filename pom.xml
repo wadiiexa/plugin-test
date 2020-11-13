@@ -3,7 +3,7 @@
 
   <groupId>fr.imiddleware.projets</groupId>
   <artifactId>plugin-test</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>plugin-test</name>
@@ -16,7 +16,6 @@
         <connection>scm:git:essidwadii@gmail.com:wadiiexa/plugin-test.git</connection>
         <developerConnection>scm:git:essidwadii@gmail.com:wadiiexa/plugin-test.git</developerConnection>
         <url>https://github.com/wadiiexa/plugin-test.git</url>
-        <tag>plugin-test-1.0</tag>
      </scm>
 
   <dependencies>
